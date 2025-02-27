@@ -1,0 +1,1001 @@
+Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,WorkLifeBalance,Overtime,PerformanceRating,Attrition
+50,Female,Sales,Manager,53064,17,2,3,Yes,4,Yes
+36,Male,IT,Sales Rep,55711,15,1,2,Yes,3,Yes
+29,Male,IT,Executive,60106,0,3,4,Yes,1,No
+42,Male,Sales,Engineer,95458,22,2,1,No,4,No
+40,Male,IT,Analyst,46589,26,2,4,No,4,No
+44,Female,Finance,Analyst,119272,10,1,1,No,2,No
+32,Female,Finance,Executive,116511,14,4,4,No,1,No
+32,Female,IT,Sales Rep,131754,11,2,1,No,4,No
+45,Male,Operations,Analyst,37214,7,4,3,No,4,No
+57,Female,Sales,Executive,126117,21,4,2,No,2,No
+45,Male,Finance,Manager,115731,19,3,1,Yes,4,No
+24,Female,Operations,Sales Rep,140118,29,4,4,No,4,No
+43,Male,IT,Engineer,57127,5,1,1,Yes,4,No
+23,Male,Operations,Analyst,35141,2,3,1,Yes,2,No
+45,Female,HR,Executive,58884,27,3,1,No,4,No
+51,Female,Finance,Manager,120421,23,3,4,No,4,Yes
+59,Female,IT,Engineer,32708,25,2,2,Yes,1,No
+23,Female,Sales,Executive,48375,29,2,3,No,1,No
+42,Male,IT,Executive,45088,12,4,2,No,2,No
+54,Female,Sales,Engineer,87615,12,3,1,No,3,Yes
+33,Female,IT,Manager,140138,1,3,4,Yes,1,No
+43,Female,Operations,Manager,75046,4,1,2,Yes,2,No
+46,Male,Operations,Sales Rep,40014,16,4,1,No,4,No
+48,Male,Operations,Analyst,94425,5,1,3,No,4,No
+49,Female,HR,Engineer,33273,1,4,3,No,2,No
+37,Male,Sales,Engineer,77135,3,4,3,No,4,Yes
+36,Female,Operations,Engineer,132842,21,2,1,Yes,4,No
+24,Male,HR,Manager,60881,25,2,4,Yes,3,No
+58,Male,Sales,Analyst,127022,10,1,2,No,4,No
+28,Male,IT,Sales Rep,108077,7,4,3,Yes,1,No
+42,Male,HR,Executive,38712,11,3,1,No,4,No
+30,Female,Finance,Executive,104704,7,2,1,No,2,No
+39,Female,HR,Engineer,82874,10,3,2,Yes,3,No
+25,Female,HR,Analyst,99087,21,1,3,Yes,4,No
+46,Male,Sales,Manager,42297,19,2,1,No,2,No
+35,Female,IT,Analyst,139269,7,2,2,Yes,1,No
+30,Female,Finance,Analyst,57128,28,4,4,Yes,4,No
+47,Female,Operations,Manager,98368,7,1,4,No,3,No
+23,Male,Operations,Engineer,124019,25,4,4,No,4,No
+41,Male,HR,Analyst,117599,29,2,3,Yes,2,No
+49,Male,Sales,Executive,118499,16,1,2,No,3,No
+28,Female,Sales,Manager,108958,19,2,2,No,4,No
+29,Female,Operations,Sales Rep,62920,19,1,1,No,1,Yes
+56,Female,Finance,Engineer,41156,22,2,1,No,3,No
+35,Male,IT,Manager,41108,15,3,1,No,1,No
+38,Male,Finance,Sales Rep,61845,13,3,2,No,2,Yes
+57,Female,IT,Sales Rep,32800,29,4,1,Yes,4,No
+25,Male,Operations,Analyst,133614,10,3,2,Yes,1,No
+23,Male,IT,Analyst,72712,6,2,2,No,2,No
+27,Male,Sales,Analyst,32610,15,2,4,No,4,No
+25,Male,HR,Manager,107603,12,3,1,Yes,2,No
+50,Female,HR,Manager,63872,26,4,4,No,1,No
+39,Male,Operations,Engineer,40728,14,3,3,No,2,Yes
+47,Male,Sales,Analyst,125102,23,1,3,No,3,No
+55,Male,Finance,Sales Rep,125319,15,1,3,No,4,Yes
+31,Male,Sales,Executive,50583,26,1,2,No,2,No
+57,Female,HR,Engineer,115774,20,3,2,Yes,1,No
+35,Female,HR,Manager,37263,22,3,2,Yes,4,No
+52,Male,Sales,Engineer,97450,23,3,1,No,3,No
+36,Male,Sales,Engineer,119285,8,1,4,Yes,4,No
+29,Male,HR,Engineer,49456,2,4,2,No,3,Yes
+35,Male,Finance,Engineer,121118,18,2,4,No,4,No
+44,Male,Operations,Executive,95942,19,3,4,No,2,No
+42,Male,Operations,Analyst,43689,4,4,4,Yes,2,No
+37,Female,Sales,Sales Rep,62934,9,2,1,Yes,1,Yes
+39,Male,Operations,Engineer,63276,16,2,1,No,3,No
+45,Female,HR,Engineer,146349,14,2,3,No,1,No
+47,Female,HR,Engineer,131968,22,4,3,No,2,No
+46,Male,Sales,Analyst,49873,24,4,4,No,3,No
+50,Female,Sales,Manager,43050,7,1,3,No,1,No
+36,Female,Sales,Manager,96216,14,4,4,No,1,No
+22,Female,Finance,Executive,114444,20,4,1,Yes,1,No
+46,Female,Operations,Manager,114040,29,4,1,Yes,1,No
+28,Female,Sales,Engineer,51644,13,2,1,No,1,No
+30,Female,IT,Engineer,92021,19,3,2,No,3,No
+45,Male,IT,Engineer,67125,27,1,4,No,1,No
+22,Female,HR,Executive,96899,6,3,1,No,3,No
+29,Female,Operations,Engineer,72291,20,3,4,No,1,No
+45,Female,Sales,Manager,65060,22,4,3,No,2,Yes
+32,Male,IT,Analyst,31538,11,1,3,No,2,No
+38,Female,Operations,Analyst,66176,16,3,1,No,1,No
+29,Male,HR,Sales Rep,71520,16,3,4,No,4,No
+56,Female,Finance,Manager,55675,9,1,1,No,2,No
+56,Male,Operations,Engineer,48287,29,4,3,No,3,No
+54,Male,Operations,Analyst,30174,28,3,1,Yes,1,Yes
+26,Female,Finance,Manager,122268,18,2,4,Yes,3,No
+49,Female,Operations,Analyst,64998,13,3,3,No,4,No
+28,Male,HR,Engineer,132591,10,2,2,No,1,No
+30,Female,HR,Analyst,83312,1,4,3,No,2,No
+29,Male,Finance,Sales Rep,42112,17,3,2,No,3,No
+33,Male,Sales,Sales Rep,135410,6,1,1,No,2,No
+55,Male,IT,Analyst,105225,11,1,1,No,2,No
+54,Male,Sales,Manager,74814,25,3,4,No,1,No
+44,Male,Operations,Manager,115091,1,4,2,No,3,No
+45,Female,IT,Manager,80719,26,4,1,Yes,4,No
+58,Male,Finance,Analyst,63919,19,1,2,No,2,No
+56,Male,Finance,Manager,103155,17,3,1,No,1,No
+43,Female,IT,Engineer,101569,5,4,3,No,1,Yes
+48,Male,HR,Sales Rep,71328,23,1,1,No,4,Yes
+56,Female,IT,Engineer,100482,9,2,4,No,1,No
+22,Female,Operations,Manager,54618,19,3,3,Yes,2,Yes
+56,Female,HR,Engineer,64675,14,2,4,No,1,No
+58,Male,Finance,Manager,131794,4,2,3,No,3,No
+35,Male,IT,Analyst,48919,19,4,2,No,3,No
+24,Male,Sales,Engineer,34173,2,4,4,Yes,2,No
+22,Female,Sales,Analyst,139369,4,4,1,Yes,3,No
+26,Male,Operations,Analyst,56400,29,3,2,Yes,4,No
+47,Female,Sales,Executive,80445,24,2,1,Yes,1,No
+35,Male,IT,Manager,100305,7,3,3,Yes,2,No
+48,Female,IT,Sales Rep,67564,7,4,3,No,4,No
+30,Male,Sales,Manager,75814,7,2,1,Yes,1,No
+36,Male,IT,Sales Rep,109747,11,3,1,Yes,4,No
+36,Male,Operations,Manager,118791,23,3,2,No,2,No
+47,Female,HR,Analyst,57962,22,1,1,Yes,2,No
+34,Female,Operations,Engineer,114892,7,3,4,Yes,4,Yes
+53,Male,Operations,Engineer,115842,10,4,4,No,1,No
+53,Male,IT,Executive,100533,13,3,1,Yes,3,No
+25,Female,HR,Sales Rep,86184,7,2,4,No,3,No
+51,Female,IT,Sales Rep,112912,28,3,1,Yes,4,No
+58,Female,Finance,Sales Rep,136416,29,1,2,No,2,No
+44,Male,IT,Analyst,133591,23,2,4,No,1,No
+36,Female,IT,Sales Rep,40578,27,2,4,No,1,No
+50,Male,IT,Engineer,48624,9,1,1,No,2,Yes
+57,Female,HR,Analyst,146164,6,4,4,No,3,No
+34,Male,IT,Manager,69194,27,2,3,No,1,No
+53,Female,HR,Sales Rep,139903,16,4,2,Yes,4,No
+28,Female,Sales,Sales Rep,30389,3,2,2,No,3,No
+43,Female,Finance,Manager,129303,28,2,4,No,4,No
+49,Female,HR,Sales Rep,141116,12,4,4,No,3,No
+23,Female,Sales,Manager,143903,3,2,3,Yes,2,No
+27,Male,HR,Analyst,97391,4,4,3,No,4,No
+49,Female,HR,Engineer,136429,25,1,4,No,4,Yes
+49,Female,Finance,Manager,43794,21,4,4,Yes,2,No
+41,Female,Operations,Executive,88002,3,1,3,No,4,No
+51,Male,Operations,Manager,65531,17,2,1,Yes,3,No
+32,Female,HR,Sales Rep,82815,5,4,3,No,1,Yes
+49,Male,IT,Analyst,34986,23,2,1,Yes,1,No
+46,Female,Sales,Analyst,62298,23,4,2,No,2,No
+54,Female,IT,Manager,31481,22,1,2,No,3,Yes
+22,Male,IT,Engineer,86408,21,1,3,No,4,No
+48,Female,HR,Executive,99267,1,4,1,No,4,No
+34,Male,HR,Analyst,46835,22,1,3,No,1,No
+24,Male,HR,Sales Rep,57798,10,2,3,Yes,4,No
+27,Female,HR,Sales Rep,121649,27,2,1,No,1,No
+29,Male,Operations,Engineer,94887,13,3,3,Yes,2,Yes
+48,Female,HR,Analyst,49477,29,1,2,No,4,Yes
+30,Female,Operations,Manager,47266,4,2,4,Yes,3,No
+58,Male,Operations,Sales Rep,116328,5,4,4,No,4,No
+54,Male,HR,Engineer,115988,9,1,3,No,1,No
+45,Male,Finance,Analyst,73526,7,2,1,No,2,No
+36,Male,Sales,Analyst,147965,13,1,1,No,1,No
+53,Female,IT,Analyst,144615,23,4,2,Yes,4,No
+53,Female,Operations,Analyst,136870,2,2,1,No,1,No
+45,Male,Sales,Analyst,41889,11,3,1,No,1,Yes
+33,Female,Finance,Sales Rep,54335,15,3,2,Yes,2,No
+23,Female,IT,Engineer,41254,27,1,3,No,3,No
+24,Female,IT,Analyst,116610,29,4,4,No,4,No
+58,Female,Operations,Executive,41442,22,2,2,No,2,No
+38,Male,HR,Executive,76289,16,4,3,No,3,No
+23,Male,Finance,Engineer,83747,0,2,2,No,1,No
+23,Female,Operations,Manager,67327,22,1,3,No,3,Yes
+49,Male,Finance,Manager,46199,9,2,2,Yes,1,No
+44,Male,HR,Manager,102827,24,4,3,No,1,No
+58,Male,HR,Executive,136464,22,4,2,No,2,No
+53,Female,Operations,Manager,30112,9,1,3,Yes,1,No
+54,Female,HR,Sales Rep,117051,20,4,2,No,2,No
+22,Female,Sales,Analyst,49581,23,2,4,No,3,Yes
+40,Male,IT,Executive,144228,1,1,4,No,3,No
+23,Female,Operations,Engineer,89722,8,2,1,No,1,No
+47,Female,Finance,Engineer,122036,21,4,3,Yes,2,No
+53,Male,Sales,Analyst,127562,12,1,2,No,1,Yes
+27,Female,Operations,Executive,46523,24,2,3,Yes,2,No
+53,Female,HR,Manager,96960,15,4,4,No,2,No
+25,Male,HR,Manager,147637,17,4,3,No,2,No
+32,Male,HR,Sales Rep,49552,18,3,2,No,3,No
+38,Male,HR,Sales Rep,40808,11,4,3,Yes,2,No
+59,Female,Finance,Manager,134347,7,2,2,No,3,No
+45,Female,Sales,Engineer,102525,16,1,4,No,2,No
+26,Female,IT,Engineer,53620,14,3,4,Yes,3,No
+55,Male,Finance,Sales Rep,134565,9,4,4,No,4,No
+27,Male,Finance,Analyst,30887,14,4,1,No,3,No
+43,Female,IT,Manager,61802,14,4,4,No,3,No
+32,Female,IT,Sales Rep,115024,22,2,3,Yes,1,No
+37,Male,HR,Sales Rep,125549,6,3,1,Yes,2,No
+54,Male,Finance,Manager,144737,12,2,4,No,4,No
+30,Male,Operations,Manager,148639,16,3,3,No,1,No
+27,Male,IT,Engineer,148248,8,1,3,Yes,2,No
+37,Female,IT,Analyst,111938,7,2,3,Yes,4,No
+50,Male,Sales,Analyst,116741,19,2,2,No,4,Yes
+24,Female,Operations,Manager,56049,25,1,1,No,4,Yes
+41,Female,Operations,Executive,107789,26,3,3,Yes,2,No
+57,Female,IT,Sales Rep,114526,20,4,2,No,4,No
+40,Male,HR,Sales Rep,37846,17,1,4,No,4,No
+47,Male,Sales,Manager,120563,12,4,3,Yes,1,No
+24,Male,Operations,Executive,134736,15,4,2,No,3,No
+40,Male,IT,Engineer,76220,8,1,3,No,2,No
+41,Female,Operations,Manager,76163,11,3,1,No,3,No
+53,Male,Sales,Manager,33765,11,4,1,No,1,No
+28,Male,Sales,Sales Rep,147126,5,1,4,No,3,No
+54,Female,Finance,Manager,111486,18,2,3,No,4,No
+39,Male,IT,Manager,75270,27,2,2,Yes,4,No
+22,Female,Sales,Manager,105277,6,2,4,No,2,Yes
+32,Female,Finance,Sales Rep,118278,24,1,3,No,2,Yes
+49,Female,Finance,Engineer,120239,2,2,4,Yes,2,Yes
+46,Female,Operations,Engineer,134245,15,4,2,Yes,1,No
+44,Female,Operations,Manager,133159,17,2,4,Yes,2,No
+52,Female,Finance,Sales Rep,52931,15,2,4,No,1,No
+51,Female,Operations,Engineer,119116,22,4,4,Yes,4,No
+56,Female,Sales,Engineer,85633,6,2,3,Yes,3,No
+28,Male,HR,Engineer,110702,3,4,2,No,4,No
+37,Male,Sales,Sales Rep,81913,26,2,1,No,4,No
+47,Male,Finance,Sales Rep,149144,24,4,3,Yes,4,Yes
+23,Male,Finance,Manager,124776,29,2,1,No,2,No
+22,Female,Sales,Analyst,55991,7,4,1,No,2,No
+33,Male,Operations,Engineer,84845,12,1,3,No,2,Yes
+26,Female,Operations,Analyst,134092,12,4,3,No,3,No
+58,Male,Finance,Sales Rep,128505,16,2,2,Yes,2,No
+53,Male,IT,Sales Rep,85312,16,2,2,No,1,No
+30,Male,Operations,Sales Rep,40561,4,3,4,No,4,Yes
+56,Female,Sales,Analyst,46901,5,4,1,Yes,3,Yes
+40,Male,Operations,Sales Rep,136041,18,1,2,Yes,3,No
+37,Female,Sales,Manager,125556,12,4,4,No,3,Yes
+24,Female,Finance,Sales Rep,92875,24,4,2,Yes,3,No
+41,Male,Operations,Executive,55917,27,1,3,No,3,No
+45,Male,Sales,Analyst,92120,25,4,2,Yes,1,Yes
+54,Male,Finance,Executive,31988,13,1,1,No,4,No
+45,Female,IT,Sales Rep,143745,21,1,2,No,3,No
+32,Male,Sales,Manager,140041,3,4,1,No,4,Yes
+29,Female,IT,Engineer,44256,27,4,3,No,2,No
+57,Female,IT,Sales Rep,148490,6,2,1,No,3,No
+59,Male,HR,Manager,117728,7,2,2,No,3,No
+41,Male,Operations,Analyst,58230,24,3,4,No,4,No
+56,Female,Sales,Executive,135466,12,3,3,No,3,No
+46,Female,IT,Executive,89778,26,4,2,No,3,No
+56,Female,HR,Executive,75833,5,1,3,No,3,No
+46,Male,Finance,Analyst,52625,5,3,3,No,1,No
+50,Female,Sales,Manager,62088,23,4,2,No,1,No
+39,Male,IT,Analyst,109650,27,3,2,Yes,3,No
+39,Female,Operations,Executive,71167,20,1,4,No,1,Yes
+23,Female,HR,Sales Rep,133937,29,4,3,No,2,No
+56,Male,IT,Engineer,101291,2,1,3,No,3,No
+37,Female,Operations,Analyst,95303,27,4,2,No,2,Yes
+57,Male,IT,Analyst,106361,2,3,1,No,4,No
+54,Male,Sales,Manager,118229,12,2,2,No,2,Yes
+25,Female,Sales,Manager,34117,21,3,3,Yes,4,Yes
+54,Male,Sales,Analyst,120265,1,3,2,Yes,3,No
+35,Male,HR,Executive,127718,15,2,4,No,4,No
+42,Female,Sales,Engineer,90710,21,2,1,No,4,Yes
+41,Male,Operations,Manager,124426,28,4,2,Yes,2,No
+29,Male,IT,Executive,124876,5,4,4,Yes,2,No
+28,Male,Finance,Sales Rep,97054,7,1,3,Yes,2,Yes
+24,Female,Operations,Manager,60949,22,1,2,No,3,No
+38,Male,Operations,Executive,52547,7,3,3,No,3,No
+54,Female,Sales,Executive,111882,29,2,4,No,2,No
+33,Female,HR,Engineer,98136,24,1,3,No,3,No
+43,Male,IT,Engineer,141541,5,3,4,No,3,No
+43,Male,HR,Sales Rep,146883,13,2,4,No,4,No
+51,Male,IT,Executive,94619,2,4,4,No,4,No
+59,Female,IT,Executive,91842,9,3,2,Yes,2,No
+59,Male,HR,Engineer,124803,2,4,3,No,3,No
+29,Male,Operations,Manager,131858,26,1,3,No,4,Yes
+48,Male,IT,Manager,56990,11,1,1,No,1,No
+48,Male,HR,Analyst,46193,16,2,1,Yes,3,No
+55,Male,IT,Engineer,60109,26,3,1,Yes,1,Yes
+42,Female,Finance,Analyst,49233,28,4,1,Yes,2,Yes
+51,Female,Operations,Engineer,143557,4,2,3,No,3,No
+54,Male,Sales,Sales Rep,111730,29,1,4,No,2,No
+49,Male,IT,Executive,64510,19,1,4,Yes,2,Yes
+54,Male,Finance,Sales Rep,31306,24,3,2,No,2,No
+26,Male,Sales,Engineer,33849,8,4,4,No,2,No
+40,Female,Sales,Executive,42360,29,3,3,Yes,2,No
+25,Male,IT,Manager,141072,20,4,3,No,3,No
+56,Female,HR,Manager,124767,25,4,3,Yes,1,No
+38,Female,IT,Analyst,75800,19,3,2,No,3,No
+49,Male,Finance,Engineer,66963,6,2,1,No,3,No
+51,Female,Sales,Engineer,84330,21,3,4,No,3,No
+50,Female,IT,Manager,81707,3,3,3,Yes,4,No
+27,Female,HR,Sales Rep,48689,12,1,3,No,4,No
+56,Female,IT,Executive,59084,12,1,1,No,3,No
+58,Male,Operations,Sales Rep,70387,9,3,3,No,1,Yes
+45,Male,HR,Sales Rep,104816,17,3,4,Yes,3,Yes
+50,Female,Finance,Manager,32642,16,1,2,Yes,2,No
+52,Male,Sales,Manager,72137,19,4,3,Yes,4,No
+56,Male,IT,Manager,109832,19,3,4,Yes,4,No
+54,Male,HR,Analyst,85561,12,2,3,No,3,No
+42,Male,Operations,Sales Rep,92260,16,2,1,No,3,Yes
+53,Male,HR,Engineer,45438,21,2,3,No,1,Yes
+44,Female,Operations,Executive,78442,3,3,3,Yes,1,Yes
+54,Male,Finance,Analyst,133061,0,4,2,No,2,No
+24,Male,Sales,Engineer,32994,0,4,1,Yes,3,No
+39,Male,Finance,Sales Rep,143530,14,1,1,No,3,No
+46,Male,IT,Manager,129575,12,3,2,No,3,No
+52,Female,HR,Sales Rep,31813,16,4,3,No,4,No
+24,Female,Operations,Executive,123027,23,3,4,No,2,No
+45,Female,Operations,Analyst,114381,25,1,1,Yes,1,No
+53,Female,HR,Analyst,148808,7,1,1,No,4,No
+43,Male,HR,Executive,85276,17,1,3,No,4,No
+44,Female,IT,Engineer,71243,26,2,3,No,4,Yes
+23,Male,Finance,Engineer,92912,12,3,1,No,4,Yes
+48,Male,Operations,Analyst,90272,22,1,3,No,2,Yes
+23,Male,IT,Analyst,132700,13,3,4,Yes,3,No
+47,Male,Finance,Manager,72051,7,2,1,No,1,No
+38,Male,IT,Engineer,108854,7,2,4,Yes,1,No
+54,Female,Operations,Executive,112736,26,1,4,No,4,Yes
+30,Female,HR,Engineer,95618,25,1,3,No,4,No
+50,Female,HR,Manager,31920,14,4,4,Yes,2,No
+47,Female,Finance,Analyst,136121,26,3,3,No,4,No
+56,Male,Sales,Analyst,107219,12,1,2,No,1,No
+46,Female,Finance,Manager,106872,6,4,3,No,1,No
+45,Male,Sales,Executive,111132,4,3,4,No,3,No
+34,Female,IT,Analyst,32093,16,1,2,No,3,No
+28,Male,IT,Sales Rep,42905,27,4,3,No,1,No
+57,Male,Operations,Analyst,54351,24,4,4,No,1,No
+41,Female,Sales,Sales Rep,60981,28,3,1,No,2,Yes
+22,Male,Operations,Manager,103903,15,4,1,No,2,No
+29,Male,HR,Manager,100821,22,3,3,No,1,Yes
+37,Female,Sales,Analyst,139200,1,3,3,No,4,No
+35,Male,Finance,Engineer,133241,21,3,1,Yes,3,No
+33,Female,HR,Sales Rep,112289,17,2,4,Yes,1,No
+44,Female,HR,Executive,146506,16,4,4,Yes,4,No
+36,Female,Finance,Analyst,114021,29,3,4,No,1,No
+49,Male,HR,Executive,108513,6,1,3,No,3,No
+55,Male,Sales,Analyst,49874,12,2,2,No,3,No
+23,Male,Operations,Engineer,80931,17,2,2,No,2,No
+53,Female,HR,Engineer,37674,28,4,2,Yes,2,Yes
+44,Male,Sales,Engineer,80516,13,3,2,No,2,No
+43,Female,IT,Engineer,124574,29,4,2,No,2,No
+46,Female,Sales,Manager,90686,17,2,3,No,3,No
+43,Male,Operations,Manager,124851,12,3,3,No,4,No
+43,Female,Sales,Sales Rep,99212,10,1,2,No,4,No
+27,Male,Finance,Executive,32426,20,3,3,No,4,No
+36,Male,Operations,Analyst,120009,29,2,3,No,1,No
+58,Male,IT,Analyst,98498,20,1,2,No,2,No
+54,Male,Finance,Manager,59943,15,3,4,No,2,No
+29,Male,Sales,Analyst,96395,22,1,3,Yes,3,No
+26,Female,Operations,Manager,74816,16,1,4,No,3,No
+25,Female,IT,Sales Rep,34138,7,2,3,No,1,No
+27,Female,Finance,Executive,130728,18,1,3,No,1,No
+53,Male,IT,Sales Rep,121176,19,4,2,Yes,4,No
+51,Male,Sales,Engineer,105945,14,2,3,No,3,No
+56,Male,IT,Engineer,34017,8,4,1,No,2,No
+37,Female,HR,Engineer,40451,19,1,1,Yes,4,No
+34,Male,Finance,Sales Rep,92956,9,4,2,No,2,Yes
+51,Female,IT,Analyst,123863,11,3,4,Yes,4,No
+40,Female,Sales,Executive,40278,20,1,4,Yes,2,No
+38,Male,Sales,Engineer,120480,22,3,4,Yes,1,No
+40,Male,IT,Engineer,73764,19,4,1,Yes,4,No
+49,Female,Sales,Engineer,31134,29,3,4,No,2,No
+47,Male,Operations,Executive,92943,0,1,4,Yes,2,No
+58,Female,Operations,Engineer,125667,24,3,2,Yes,3,No
+47,Male,Operations,Executive,84318,19,4,4,Yes,4,No
+44,Male,HR,Engineer,133423,8,4,1,Yes,2,No
+30,Female,IT,Sales Rep,133998,21,4,1,Yes,3,No
+33,Male,HR,Sales Rep,90128,14,1,1,No,2,No
+22,Female,Sales,Executive,118056,0,4,2,Yes,4,No
+22,Male,HR,Sales Rep,51869,11,1,2,No,1,No
+55,Female,Sales,Executive,132468,2,3,3,No,4,Yes
+53,Female,Sales,Sales Rep,147034,10,4,4,Yes,4,No
+46,Male,Finance,Sales Rep,35039,1,3,2,No,2,No
+22,Female,Operations,Executive,51281,15,2,1,Yes,2,No
+37,Male,Sales,Analyst,142935,8,3,1,Yes,4,No
+26,Male,Finance,Sales Rep,40442,14,2,2,Yes,3,No
+43,Male,Operations,Engineer,103788,11,3,2,No,3,No
+50,Female,Sales,Analyst,149729,0,1,2,No,3,No
+24,Female,Sales,Executive,57586,12,3,3,No,2,Yes
+33,Male,HR,Analyst,83053,13,1,1,No,2,No
+47,Male,HR,Manager,80489,24,1,3,No,4,No
+37,Female,Operations,Manager,113104,24,4,3,Yes,1,Yes
+58,Male,Sales,Sales Rep,116346,7,1,4,No,2,Yes
+43,Male,IT,Sales Rep,97087,7,2,1,Yes,4,Yes
+50,Female,HR,Engineer,42625,26,4,1,Yes,4,No
+35,Male,Operations,Analyst,64397,29,4,2,Yes,1,No
+49,Female,Sales,Manager,88671,11,3,2,Yes,3,Yes
+26,Male,Sales,Sales Rep,146214,0,1,4,No,4,No
+51,Female,IT,Analyst,121785,10,1,3,No,4,Yes
+26,Male,Operations,Sales Rep,96897,7,2,2,Yes,4,No
+33,Male,Sales,Sales Rep,56149,9,3,2,No,3,No
+37,Female,HR,Manager,90030,29,3,1,No,3,No
+47,Male,IT,Manager,99906,18,4,1,No,1,No
+47,Female,Operations,Sales Rep,35283,10,4,2,Yes,2,No
+42,Male,IT,Executive,37610,6,4,1,No,3,No
+57,Female,HR,Sales Rep,73326,10,2,4,No,2,No
+54,Female,Operations,Sales Rep,44924,16,2,2,No,2,No
+51,Female,IT,Engineer,143143,0,4,1,No,3,Yes
+58,Female,Finance,Engineer,140253,25,3,4,Yes,4,Yes
+44,Male,HR,Engineer,106162,28,2,1,Yes,1,No
+31,Male,HR,Executive,130297,20,3,1,No,2,No
+26,Female,HR,Executive,30869,20,3,1,No,4,No
+57,Female,Finance,Sales Rep,127088,7,1,2,Yes,3,No
+55,Female,Finance,Engineer,31014,22,4,3,No,2,No
+52,Male,Sales,Executive,40103,23,1,1,No,2,No
+31,Male,IT,Manager,112522,5,4,4,No,2,No
+40,Male,Sales,Sales Rep,140317,21,4,2,No,4,No
+53,Male,IT,Analyst,126007,17,3,2,No,4,No
+22,Female,Finance,Sales Rep,63458,5,4,4,No,4,No
+26,Female,Finance,Analyst,120605,4,3,1,No,2,No
+25,Female,Sales,Engineer,112409,12,3,3,Yes,2,No
+37,Male,Operations,Analyst,53248,18,4,1,Yes,1,No
+45,Male,Sales,Engineer,119160,21,3,4,Yes,1,Yes
+37,Male,IT,Manager,73516,7,3,2,Yes,4,Yes
+23,Female,Sales,Analyst,59061,8,3,3,Yes,4,No
+49,Female,HR,Sales Rep,54170,16,2,2,Yes,3,No
+53,Male,IT,Engineer,38024,2,3,4,No,4,No
+48,Female,IT,Sales Rep,112214,18,2,1,Yes,1,No
+41,Male,Operations,Executive,133792,10,2,3,No,1,No
+45,Male,Finance,Engineer,115947,23,3,2,Yes,1,No
+33,Female,IT,Analyst,73803,16,3,2,No,2,Yes
+56,Male,Finance,Engineer,49296,20,2,2,No,2,No
+54,Female,Sales,Sales Rep,121829,18,2,1,Yes,4,No
+54,Male,HR,Manager,122708,1,3,3,No,3,Yes
+58,Female,Operations,Engineer,116664,7,3,1,No,3,No
+33,Female,Finance,Analyst,48257,18,4,1,No,3,No
+24,Female,IT,Executive,42855,6,2,1,No,2,No
+22,Male,Finance,Manager,115178,27,2,4,No,1,No
+54,Male,IT,Executive,131121,26,4,4,No,1,No
+31,Female,Finance,Engineer,50025,16,2,4,No,2,No
+50,Female,IT,Sales Rep,34458,5,1,3,Yes,3,No
+34,Male,Sales,Sales Rep,93610,18,2,1,No,3,No
+33,Male,IT,Analyst,100843,23,4,1,No,4,No
+52,Male,IT,Sales Rep,137237,5,1,4,No,4,No
+23,Female,HR,Manager,113961,27,3,1,Yes,3,Yes
+56,Male,IT,Sales Rep,79831,1,4,1,No,2,Yes
+44,Male,HR,Analyst,73427,5,4,2,No,3,No
+38,Female,Operations,Engineer,123809,22,3,1,Yes,4,Yes
+47,Male,HR,Engineer,68506,4,4,2,No,3,No
+29,Male,Sales,Sales Rep,35668,18,2,1,No,2,No
+50,Male,HR,Executive,121470,19,3,3,No,1,No
+47,Female,Operations,Engineer,77195,3,4,4,No,2,No
+31,Female,Sales,Sales Rep,103233,21,3,2,No,2,No
+47,Female,Finance,Analyst,54417,25,3,4,No,4,No
+55,Female,Finance,Sales Rep,111982,16,3,2,No,2,Yes
+28,Female,HR,Engineer,136133,10,1,2,Yes,2,Yes
+25,Female,HR,Analyst,40751,3,4,2,Yes,4,No
+32,Female,Operations,Sales Rep,76218,25,1,3,No,4,No
+50,Male,Operations,Manager,37352,12,4,1,Yes,1,Yes
+57,Male,IT,Analyst,109052,19,2,2,Yes,3,No
+46,Female,Operations,Manager,118835,25,2,3,No,2,No
+42,Male,IT,Executive,127493,16,2,2,Yes,4,No
+57,Male,Sales,Analyst,58927,8,4,1,No,1,No
+31,Female,HR,Manager,71094,3,3,2,Yes,3,No
+58,Male,Sales,Engineer,131948,22,3,3,No,4,Yes
+30,Male,Operations,Engineer,84122,27,1,1,No,3,No
+45,Male,Sales,Executive,59493,13,1,3,Yes,3,No
+56,Male,Sales,Analyst,122247,18,2,1,No,2,No
+56,Male,Sales,Analyst,103539,25,1,1,Yes,2,No
+57,Female,Operations,Analyst,61707,27,4,4,No,4,No
+39,Female,Sales,Executive,98814,2,4,4,No,3,No
+53,Female,IT,Analyst,37296,13,1,4,No,4,No
+45,Male,Operations,Engineer,55398,7,1,1,No,4,No
+44,Female,Sales,Manager,65842,23,1,2,No,3,No
+53,Male,Operations,Engineer,43261,26,1,3,No,4,No
+58,Male,Finance,Engineer,106709,27,2,3,No,3,No
+33,Male,IT,Manager,125985,0,2,3,Yes,3,No
+34,Male,Sales,Engineer,136616,9,1,4,No,3,No
+44,Female,Finance,Executive,86704,17,4,1,Yes,3,No
+46,Female,Finance,Manager,97173,15,2,4,No,1,No
+56,Male,Operations,Engineer,61781,7,4,2,Yes,3,No
+51,Female,Finance,Sales Rep,43652,0,3,1,No,2,Yes
+38,Male,IT,Engineer,35103,11,4,3,Yes,2,Yes
+41,Female,IT,Executive,55500,7,1,4,Yes,2,No
+46,Female,HR,Analyst,145332,23,3,4,No,3,No
+43,Male,IT,Engineer,130336,15,2,2,No,2,No
+34,Female,Finance,Analyst,65529,17,2,2,No,1,No
+40,Male,IT,Sales Rep,143499,3,3,4,Yes,4,Yes
+57,Female,Operations,Engineer,48452,5,4,2,Yes,3,No
+33,Male,HR,Manager,79393,11,2,3,No,2,No
+40,Male,Finance,Analyst,61174,26,1,2,No,1,Yes
+33,Female,HR,Sales Rep,94450,8,3,2,Yes,4,No
+30,Female,Finance,Manager,65436,14,1,4,No,1,No
+28,Male,Operations,Manager,77406,15,3,4,No,2,No
+49,Female,HR,Manager,93059,23,2,1,No,1,No
+35,Female,Sales,Manager,45954,11,4,1,No,4,No
+52,Male,Finance,Engineer,112722,23,3,4,No,2,No
+40,Male,Sales,Engineer,149747,22,3,2,Yes,4,No
+37,Female,HR,Engineer,42356,13,1,2,Yes,1,Yes
+26,Male,Sales,Sales Rep,128499,12,2,1,No,3,No
+56,Male,Sales,Sales Rep,32187,24,1,1,No,3,No
+33,Male,HR,Sales Rep,107243,1,2,1,No,3,No
+46,Female,Operations,Executive,65098,2,1,3,No,3,No
+42,Female,Sales,Sales Rep,122471,25,3,3,No,4,No
+57,Male,Sales,Engineer,51225,23,1,1,No,3,No
+44,Female,Operations,Engineer,33606,29,4,2,Yes,4,Yes
+37,Male,Sales,Executive,87620,21,2,1,Yes,2,No
+35,Female,Sales,Executive,62828,9,2,3,No,3,No
+52,Male,Sales,Sales Rep,56489,8,3,2,No,4,No
+26,Male,IT,Analyst,44387,25,2,3,Yes,3,No
+56,Female,Operations,Executive,99463,19,4,2,No,3,No
+44,Male,Sales,Manager,101832,7,1,3,No,3,No
+50,Female,Operations,Engineer,125980,9,3,2,No,4,No
+32,Female,Finance,Manager,141926,18,4,2,Yes,1,No
+39,Male,Finance,Engineer,142429,2,2,2,No,3,No
+33,Male,Sales,Engineer,32591,23,2,2,Yes,3,No
+30,Female,Operations,Executive,140431,4,4,4,No,2,No
+31,Male,Operations,Executive,78516,2,1,3,Yes,1,No
+38,Male,Operations,Manager,121683,25,1,3,No,4,No
+59,Male,IT,Engineer,92061,26,3,4,Yes,2,Yes
+28,Male,Finance,Manager,134425,15,2,2,No,3,No
+34,Male,Operations,Analyst,96736,16,4,2,No,2,No
+30,Female,Operations,Manager,111257,14,1,3,Yes,2,Yes
+48,Female,IT,Sales Rep,91753,2,3,4,No,3,Yes
+23,Male,IT,Manager,114774,11,2,2,Yes,1,No
+26,Male,Operations,Sales Rep,41087,8,2,2,No,1,No
+50,Male,HR,Sales Rep,60816,20,3,2,No,2,Yes
+58,Female,Operations,Sales Rep,53408,11,3,1,No,3,Yes
+59,Male,Operations,Analyst,135276,25,1,4,No,4,No
+40,Female,IT,Manager,30136,14,4,2,No,2,Yes
+29,Female,IT,Manager,47413,1,2,1,No,4,No
+22,Female,Operations,Analyst,143650,22,4,4,Yes,2,No
+43,Male,Operations,Engineer,89500,17,2,2,No,2,No
+38,Female,Operations,Executive,114514,19,2,3,No,3,No
+28,Male,IT,Manager,86358,11,4,1,Yes,3,No
+46,Female,Operations,Executive,96197,22,3,1,No,4,No
+25,Male,Operations,Analyst,130776,3,1,2,Yes,4,No
+57,Female,Sales,Engineer,122789,22,2,2,No,1,Yes
+27,Male,HR,Engineer,122420,15,3,1,Yes,3,No
+52,Female,Finance,Engineer,62854,22,2,3,No,2,No
+40,Male,HR,Analyst,106240,15,1,3,No,2,Yes
+48,Male,Sales,Sales Rep,134523,0,2,4,Yes,1,Yes
+31,Male,Finance,Sales Rep,120063,21,1,2,Yes,3,No
+47,Male,Operations,Executive,46322,24,1,3,No,2,No
+40,Female,Sales,Sales Rep,143053,1,2,4,No,1,No
+24,Female,Operations,Sales Rep,36968,29,2,3,Yes,1,No
+34,Male,IT,Engineer,57518,2,1,2,Yes,2,No
+49,Female,Sales,Engineer,81925,25,3,4,No,2,No
+41,Male,IT,Executive,89848,20,4,4,No,4,No
+49,Male,Sales,Manager,141900,24,1,4,No,3,Yes
+29,Female,Sales,Executive,123422,19,2,3,No,4,No
+22,Male,IT,Executive,31700,16,2,2,Yes,1,No
+24,Male,Finance,Analyst,123782,19,3,4,No,2,No
+34,Female,HR,Analyst,131004,21,4,1,No,4,No
+49,Male,Operations,Executive,53199,20,1,2,Yes,1,Yes
+46,Male,Sales,Executive,74589,29,1,1,No,3,No
+54,Male,Operations,Executive,62115,28,4,1,No,2,Yes
+59,Male,IT,Sales Rep,91934,0,1,4,No,4,No
+27,Female,Operations,Analyst,146335,19,4,4,No,3,No
+53,Female,IT,Executive,84316,5,2,3,Yes,4,No
+42,Female,Operations,Engineer,35520,28,4,3,No,1,Yes
+37,Male,HR,Engineer,139814,14,1,3,No,3,No
+42,Male,HR,Sales Rep,66455,25,4,2,Yes,4,No
+32,Female,HR,Sales Rep,145284,25,3,3,No,3,No
+58,Male,HR,Manager,116465,13,2,1,No,1,No
+57,Male,HR,Manager,71605,19,2,3,No,3,No
+56,Male,HR,Manager,44955,14,4,4,No,4,No
+40,Male,IT,Sales Rep,74049,13,1,3,No,1,No
+41,Female,Sales,Sales Rep,43917,24,3,2,No,2,No
+39,Female,Operations,Sales Rep,100293,20,2,2,No,4,No
+35,Female,HR,Engineer,108581,23,2,1,No,4,No
+36,Male,IT,Sales Rep,149072,24,1,2,Yes,1,No
+52,Female,IT,Engineer,94925,25,1,3,No,1,Yes
+22,Female,IT,Manager,137216,4,3,4,No,2,No
+24,Male,Sales,Manager,100269,5,4,2,No,4,No
+37,Male,Operations,Manager,60954,16,1,1,No,1,No
+44,Female,Sales,Executive,126671,10,4,3,No,2,No
+32,Female,Finance,Executive,102617,15,3,1,No,2,No
+33,Female,IT,Analyst,71458,11,4,2,Yes,1,No
+31,Female,Finance,Analyst,119037,14,2,2,Yes,4,No
+53,Male,HR,Analyst,51113,22,4,1,No,3,No
+37,Female,HR,Executive,129977,3,3,3,No,3,No
+29,Female,Sales,Executive,142622,26,3,2,Yes,2,Yes
+59,Male,Operations,Analyst,120226,17,3,4,Yes,3,Yes
+33,Female,Finance,Analyst,73939,20,4,2,No,3,No
+45,Male,Operations,Sales Rep,59345,27,2,3,No,1,No
+49,Male,Sales,Analyst,76313,2,1,2,No,2,No
+29,Male,HR,Sales Rep,140107,21,2,1,No,4,Yes
+49,Female,Operations,Engineer,122365,7,4,2,Yes,2,No
+57,Female,Operations,Executive,130598,22,4,2,No,1,No
+47,Male,HR,Analyst,99166,2,1,3,No,3,No
+29,Female,Finance,Executive,77861,7,4,1,No,4,Yes
+49,Female,HR,Executive,127406,17,3,3,Yes,2,No
+49,Male,Operations,Executive,79298,9,3,2,Yes,3,No
+58,Male,Finance,Engineer,77221,24,3,4,Yes,2,No
+57,Female,Finance,Manager,74942,19,3,2,No,4,No
+48,Male,HR,Analyst,33453,16,3,3,No,2,Yes
+38,Female,Operations,Manager,132811,7,4,4,No,2,No
+30,Female,Sales,Manager,84935,22,1,3,No,2,No
+54,Female,Operations,Manager,73370,10,1,3,No,3,No
+41,Female,IT,Executive,133932,28,3,1,No,4,Yes
+34,Male,Sales,Sales Rep,38328,4,4,4,Yes,4,No
+49,Male,Finance,Executive,45534,25,2,2,No,3,No
+50,Male,Sales,Executive,115280,12,2,3,No,3,No
+34,Male,Finance,Manager,114925,20,4,2,No,3,No
+56,Female,Finance,Executive,66320,22,3,1,No,1,Yes
+27,Female,Sales,Manager,79170,4,1,1,No,2,No
+39,Male,Finance,Sales Rep,130546,23,4,4,No,2,No
+26,Female,Finance,Analyst,110201,26,2,1,No,4,No
+46,Female,IT,Manager,133401,12,2,1,No,2,No
+23,Female,Operations,Sales Rep,38640,5,2,2,No,1,No
+31,Male,Operations,Analyst,130252,28,3,1,No,3,No
+51,Male,IT,Engineer,121057,4,2,1,Yes,4,No
+26,Male,Sales,Manager,60049,8,4,3,No,4,No
+54,Female,HR,Manager,35618,26,4,1,No,2,No
+22,Male,HR,Engineer,132540,15,2,3,Yes,4,Yes
+39,Male,HR,Engineer,86053,1,4,1,Yes,3,No
+53,Male,IT,Manager,31920,0,2,1,Yes,4,No
+32,Male,IT,Engineer,73937,7,2,4,No,3,No
+42,Male,Finance,Executive,99724,27,1,4,No,1,No
+47,Male,HR,Analyst,42207,18,3,3,No,1,No
+46,Female,Sales,Analyst,95774,29,3,1,No,3,No
+43,Female,Sales,Analyst,62972,10,1,2,No,2,No
+48,Male,HR,Executive,40799,27,1,4,No,4,Yes
+34,Male,HR,Engineer,101088,11,3,2,No,2,No
+54,Female,HR,Sales Rep,58916,11,2,4,No,4,Yes
+55,Female,IT,Engineer,100463,6,2,4,Yes,1,No
+56,Male,IT,Manager,123500,25,3,1,No,1,No
+22,Male,IT,Analyst,106700,12,2,4,No,1,No
+42,Male,Operations,Engineer,67158,26,1,2,No,4,Yes
+27,Male,Sales,Sales Rep,114607,7,2,4,No,1,No
+49,Female,Sales,Manager,149639,28,2,3,No,1,Yes
+38,Male,Finance,Executive,143945,28,4,1,Yes,1,No
+26,Male,IT,Executive,101696,21,4,1,No,1,No
+52,Male,Operations,Sales Rep,91510,27,4,3,Yes,2,No
+26,Male,Operations,Manager,88692,25,2,3,No,1,No
+59,Female,Sales,Analyst,91744,29,3,3,No,1,Yes
+24,Female,IT,Engineer,45810,8,1,4,No,2,No
+44,Female,Finance,Manager,35126,6,2,1,No,2,Yes
+58,Male,IT,Executive,60009,25,3,3,No,4,No
+58,Male,HR,Sales Rep,129120,20,2,4,No,3,Yes
+31,Female,IT,Sales Rep,141718,23,1,3,No,1,No
+31,Male,HR,Engineer,120932,14,2,2,No,1,No
+40,Male,HR,Sales Rep,30192,1,1,2,No,1,No
+38,Female,Finance,Sales Rep,146464,22,2,1,No,4,No
+42,Female,Sales,Manager,66413,19,1,4,Yes,1,No
+35,Female,IT,Analyst,42816,24,2,2,No,3,Yes
+30,Female,HR,Engineer,69082,11,1,2,No,2,No
+22,Male,IT,Manager,95048,0,4,4,No,4,Yes
+34,Male,Sales,Analyst,80940,22,2,3,Yes,2,No
+25,Female,Sales,Manager,62130,21,2,4,No,1,No
+22,Male,Operations,Manager,70142,7,3,3,Yes,1,No
+53,Female,Sales,Sales Rep,66468,4,3,2,Yes,1,No
+55,Female,Finance,Analyst,60698,14,1,2,No,3,No
+49,Male,HR,Engineer,40655,0,2,2,No,3,No
+52,Female,Operations,Engineer,77897,0,1,1,Yes,4,Yes
+29,Male,Finance,Analyst,60075,24,4,1,No,2,No
+47,Male,IT,Sales Rep,39359,9,3,1,No,1,No
+55,Male,HR,Executive,132197,21,1,4,No,1,No
+24,Male,Sales,Manager,135115,9,1,2,Yes,1,No
+33,Female,HR,Sales Rep,72056,20,3,2,No,1,Yes
+22,Male,IT,Analyst,81831,14,2,4,No,3,No
+26,Female,Operations,Manager,89191,16,1,1,No,2,No
+51,Female,Operations,Engineer,148592,21,3,4,No,2,No
+51,Female,Operations,Executive,63272,5,2,1,No,4,No
+38,Female,Sales,Engineer,138117,2,4,2,Yes,3,No
+44,Male,Finance,Analyst,44671,12,3,3,No,1,No
+36,Male,Finance,Manager,57048,15,1,1,No,2,No
+58,Female,HR,Analyst,106274,7,4,2,No,2,No
+42,Female,Sales,Manager,55963,29,2,2,No,3,No
+35,Male,Operations,Sales Rep,73954,14,2,3,Yes,4,No
+23,Female,Operations,Executive,102309,16,3,2,No,4,No
+32,Male,IT,Sales Rep,132120,16,3,2,No,1,Yes
+59,Female,IT,Sales Rep,125430,21,3,1,No,4,No
+55,Male,Operations,Analyst,30717,25,2,1,No,2,No
+59,Female,Operations,Executive,41676,12,4,3,No,4,No
+55,Female,Sales,Manager,34434,16,2,3,No,1,No
+39,Male,Finance,Manager,79810,5,1,2,Yes,2,No
+51,Female,IT,Engineer,133361,16,2,1,No,4,Yes
+36,Female,Finance,Manager,148696,15,1,3,No,4,No
+48,Male,Sales,Analyst,124636,13,4,3,No,3,No
+55,Female,Operations,Sales Rep,34994,12,3,4,No,1,No
+59,Male,Finance,Sales Rep,34234,5,3,3,No,4,No
+54,Male,Operations,Sales Rep,99300,2,2,2,Yes,3,No
+45,Female,Operations,Executive,73949,13,3,1,Yes,2,No
+36,Female,HR,Manager,67405,13,4,3,No,3,No
+51,Female,Finance,Analyst,64872,14,3,4,Yes,3,Yes
+38,Female,Finance,Executive,72215,7,2,1,No,4,No
+26,Female,Operations,Engineer,53185,28,4,3,Yes,4,No
+50,Female,Sales,Analyst,73442,14,1,4,No,4,No
+25,Female,HR,Analyst,81759,21,2,3,No,3,No
+31,Male,Operations,Analyst,71153,28,1,1,Yes,2,No
+38,Female,IT,Sales Rep,107535,26,4,1,No,1,No
+31,Male,IT,Analyst,132023,12,2,1,Yes,3,Yes
+38,Female,HR,Manager,32581,16,2,2,No,4,No
+41,Female,Sales,Analyst,81717,20,4,3,Yes,1,No
+45,Male,Operations,Sales Rep,32763,23,3,2,No,2,No
+26,Female,Finance,Analyst,122910,2,2,1,No,1,No
+55,Female,HR,Engineer,85480,27,2,4,Yes,4,Yes
+27,Male,Sales,Engineer,68759,5,1,3,Yes,3,Yes
+23,Female,Finance,Sales Rep,106067,4,3,2,No,3,No
+34,Female,IT,Manager,148094,21,1,3,Yes,4,No
+32,Female,IT,Manager,55307,25,1,4,No,3,Yes
+44,Male,Finance,Executive,126371,16,3,2,No,4,No
+37,Female,HR,Sales Rep,41064,22,3,1,No,3,No
+52,Female,IT,Analyst,106848,24,4,2,No,3,No
+32,Female,Operations,Sales Rep,67548,1,3,3,No,3,No
+37,Female,Finance,Executive,66945,25,2,3,No,2,No
+29,Male,Finance,Sales Rep,77937,14,3,3,No,2,No
+25,Male,IT,Sales Rep,36476,4,4,3,Yes,4,No
+25,Female,HR,Executive,81756,25,4,1,Yes,2,No
+46,Female,Operations,Manager,120101,19,4,2,No,4,No
+24,Male,HR,Analyst,32382,5,3,1,No,1,No
+53,Male,Sales,Executive,79683,5,3,1,Yes,1,No
+24,Female,Sales,Engineer,117999,26,1,1,No,2,Yes
+48,Male,IT,Manager,75276,17,1,3,No,1,No
+50,Female,IT,Engineer,63402,17,2,3,Yes,1,No
+53,Male,IT,Manager,121881,3,1,3,No,3,No
+40,Male,Sales,Analyst,140300,16,2,2,Yes,3,No
+42,Male,HR,Analyst,56946,24,4,4,No,4,No
+26,Male,HR,Sales Rep,109698,13,1,3,Yes,1,No
+39,Female,IT,Engineer,144690,13,3,2,No,4,No
+49,Male,Operations,Manager,142309,12,1,3,Yes,4,No
+43,Male,HR,Analyst,103933,6,2,3,No,1,No
+42,Female,Sales,Executive,52335,11,1,1,No,2,Yes
+27,Male,Finance,Analyst,75095,22,4,1,Yes,1,No
+22,Male,Finance,Executive,109930,14,3,1,No,3,No
+26,Female,Finance,Manager,57197,18,2,2,No,1,Yes
+33,Male,Operations,Analyst,52010,10,3,4,Yes,2,Yes
+47,Female,IT,Analyst,54123,14,3,4,No,4,Yes
+55,Female,Sales,Manager,117923,11,2,2,No,4,Yes
+35,Female,Operations,Analyst,32890,2,3,3,No,3,No
+47,Female,Sales,Executive,123305,16,3,2,No,3,No
+48,Male,Sales,Analyst,139162,2,1,3,No,3,No
+30,Female,IT,Engineer,38026,18,3,2,Yes,4,No
+47,Male,Finance,Sales Rep,94925,19,3,2,No,3,No
+43,Male,IT,Executive,98842,3,3,2,No,1,No
+51,Male,Operations,Engineer,63665,2,3,4,No,4,No
+38,Male,Operations,Manager,39277,25,2,1,No,2,No
+47,Male,Operations,Executive,72239,15,4,2,No,4,No
+57,Male,IT,Sales Rep,77664,11,1,4,Yes,1,No
+22,Male,Sales,Sales Rep,78008,7,3,1,Yes,1,No
+29,Male,Sales,Manager,44683,23,3,1,Yes,3,Yes
+56,Male,HR,Manager,30670,28,2,2,Yes,4,No
+36,Male,Operations,Executive,119211,28,4,3,No,4,No
+43,Female,Sales,Analyst,47889,16,3,3,Yes,4,No
+35,Female,HR,Manager,85612,6,2,3,Yes,2,No
+47,Female,Sales,Analyst,74535,10,1,2,Yes,3,Yes
+49,Male,Operations,Engineer,108542,17,1,3,Yes,1,No
+44,Female,Finance,Sales Rep,84319,0,3,4,Yes,1,Yes
+35,Female,Operations,Analyst,144072,2,3,4,Yes,3,No
+45,Female,IT,Sales Rep,122067,3,4,4,No,1,No
+23,Male,Sales,Analyst,51639,12,4,4,No,1,No
+47,Male,Sales,Engineer,94712,5,3,1,Yes,3,Yes
+35,Male,IT,Manager,46633,25,2,4,No,1,No
+28,Male,IT,Engineer,64660,13,4,3,No,4,No
+24,Female,Finance,Manager,98975,4,3,2,Yes,2,No
+44,Female,Sales,Manager,62172,15,4,3,Yes,3,Yes
+39,Female,Sales,Sales Rep,89197,14,3,4,No,2,No
+59,Female,Finance,Engineer,131158,14,1,1,No,1,No
+56,Male,HR,Analyst,88847,29,3,4,Yes,1,Yes
+36,Male,Finance,Engineer,41577,3,1,2,Yes,4,No
+46,Male,Operations,Sales Rep,107299,7,4,3,No,3,No
+58,Female,Sales,Manager,50176,26,3,2,Yes,1,No
+49,Male,IT,Sales Rep,74386,15,4,2,Yes,3,No
+31,Male,Operations,Executive,93972,27,1,2,No,3,No
+38,Female,Sales,Executive,119791,15,3,3,No,3,No
+43,Female,Finance,Analyst,71003,29,4,4,No,3,No
+47,Male,Operations,Sales Rep,49996,3,1,2,No,3,No
+46,Male,Sales,Analyst,130922,12,4,3,Yes,2,No
+38,Male,HR,Analyst,116598,25,2,1,Yes,4,No
+34,Male,HR,Executive,65931,27,1,3,No,3,No
+41,Male,IT,Analyst,65710,12,1,1,Yes,2,No
+46,Male,Sales,Executive,64693,1,1,3,No,1,No
+25,Female,HR,Manager,65740,2,3,4,No,3,No
+31,Female,Finance,Sales Rep,107241,21,3,2,No,1,No
+24,Female,Sales,Analyst,138944,7,3,4,Yes,3,No
+39,Male,Finance,Executive,123583,23,2,3,No,2,Yes
+57,Female,Finance,Engineer,106502,14,2,2,No,2,Yes
+43,Male,HR,Analyst,47374,10,1,1,No,2,No
+55,Male,Sales,Manager,106674,8,2,3,Yes,4,No
+29,Female,Operations,Manager,146500,6,4,2,Yes,1,No
+40,Male,HR,Engineer,111471,12,1,1,Yes,4,Yes
+58,Male,HR,Executive,75913,1,1,1,No,3,Yes
+27,Female,Sales,Analyst,96025,7,4,4,No,1,Yes
+47,Female,Sales,Executive,74516,6,1,3,No,2,Yes
+55,Female,Finance,Manager,117796,23,2,1,No,1,Yes
+27,Male,Sales,Executive,56069,11,3,2,Yes,2,No
+58,Female,Finance,Manager,148333,18,4,1,No,4,No
+54,Female,HR,Executive,86233,6,2,1,Yes,4,No
+43,Male,IT,Engineer,114811,9,4,4,No,2,No
+42,Female,Operations,Sales Rep,89049,28,4,4,No,2,No
+27,Female,HR,Engineer,131820,24,1,2,No,3,Yes
+27,Female,Sales,Engineer,148028,15,1,4,No,4,Yes
+25,Male,Operations,Sales Rep,69178,2,2,1,Yes,4,No
+51,Male,IT,Sales Rep,62821,29,4,1,Yes,3,No
+32,Male,IT,Analyst,81727,9,1,4,No,4,No
+51,Male,Finance,Analyst,90935,5,1,1,No,2,No
+52,Female,Operations,Engineer,46999,17,4,1,Yes,1,No
+45,Male,Finance,Engineer,92522,17,2,2,Yes,1,No
+30,Male,HR,Manager,68712,4,2,4,No,4,No
+24,Female,Operations,Manager,94551,20,4,1,Yes,3,No
+52,Female,HR,Analyst,70172,28,2,4,No,2,No
+58,Female,Finance,Analyst,63722,6,1,2,No,1,No
+57,Male,Operations,Manager,40625,27,4,4,Yes,2,Yes
+45,Male,Finance,Manager,97165,1,1,1,Yes,4,No
+52,Male,Operations,Executive,106509,10,3,4,No,4,No
+27,Female,Finance,Executive,36859,29,3,1,No,1,No
+23,Female,IT,Manager,71609,12,2,1,No,4,No
+41,Male,Finance,Executive,73307,22,3,1,No,3,No
+49,Female,IT,Sales Rep,140986,4,1,2,Yes,4,No
+32,Female,Finance,Analyst,131582,29,3,4,No,4,No
+25,Female,Operations,Analyst,51839,5,1,2,No,4,No
+36,Male,Operations,Manager,57216,23,2,4,Yes,2,No
+27,Female,Operations,Engineer,82953,25,2,2,No,2,No
+51,Female,Sales,Manager,114481,28,1,3,Yes,1,No
+59,Male,HR,Executive,90593,13,3,1,Yes,1,Yes
+23,Male,Operations,Engineer,102075,11,2,1,Yes,1,No
+36,Female,IT,Executive,79522,3,4,2,No,4,No
+32,Female,Operations,Sales Rep,129161,28,2,3,No,2,No
+29,Male,Sales,Executive,34886,22,3,1,No,3,No
+47,Male,IT,Sales Rep,141249,5,4,4,No,4,Yes
+26,Female,Sales,Sales Rep,37485,9,3,2,No,4,No
+27,Female,IT,Executive,61455,17,1,1,Yes,4,No
+47,Female,Finance,Executive,141984,14,4,1,Yes,3,No
+25,Female,HR,Sales Rep,46767,7,3,2,Yes,1,Yes
+40,Male,HR,Engineer,142701,25,4,2,Yes,3,No
+41,Female,Sales,Sales Rep,58453,8,3,4,No,1,No
+54,Female,HR,Analyst,106280,4,4,4,No,3,No
+41,Male,Sales,Sales Rep,132638,9,3,1,No,2,Yes
+33,Female,Sales,Engineer,83442,19,1,1,Yes,4,No
+22,Male,Sales,Analyst,81877,5,4,2,No,4,No
+47,Female,HR,Manager,42226,15,4,1,No,4,No
+35,Female,Sales,Manager,123405,23,4,1,Yes,1,No
+59,Male,HR,Engineer,52588,26,4,2,No,3,No
+58,Male,Sales,Sales Rep,108976,2,1,1,No,2,No
+32,Female,Operations,Executive,61709,9,4,1,No,3,No
+57,Female,Sales,Engineer,77788,10,2,3,No,4,No
+34,Female,IT,Analyst,118031,10,1,4,No,2,No
+24,Male,Sales,Analyst,67019,16,2,2,Yes,2,No
+54,Female,Finance,Manager,74948,3,4,3,No,4,Yes
+27,Male,Sales,Analyst,95133,3,3,4,Yes,3,No
+31,Male,IT,Engineer,144444,16,2,4,Yes,4,No
+26,Female,IT,Analyst,96458,8,4,4,No,3,Yes
+44,Male,HR,Engineer,147603,18,2,3,No,2,Yes
+31,Female,Operations,Executive,57526,4,4,3,No,2,Yes
+23,Female,Sales,Manager,103493,21,4,4,No,4,No
+34,Female,HR,Analyst,82198,23,4,1,No,2,No
+23,Female,Operations,Engineer,144100,5,3,1,No,1,No
+41,Female,Sales,Sales Rep,129534,2,2,3,No,2,Yes
+22,Male,Finance,Manager,73395,21,1,3,Yes,1,No
+58,Male,Sales,Executive,54031,0,1,3,No,2,Yes
+30,Female,IT,Engineer,105542,19,1,4,Yes,4,No
+38,Female,IT,Executive,67701,21,1,1,No,4,No
+30,Male,Finance,Executive,142599,15,4,3,Yes,1,No
+32,Male,HR,Analyst,55939,22,2,3,No,4,No
+36,Male,Operations,Analyst,79145,10,2,2,Yes,2,Yes
+45,Male,Sales,Engineer,50324,12,3,4,No,2,Yes
+59,Female,IT,Sales Rep,52867,26,2,2,No,4,No
+56,Female,HR,Engineer,30203,9,2,1,Yes,2,No
+51,Male,Finance,Sales Rep,46544,2,2,2,No,3,No
+52,Female,IT,Executive,45899,8,3,2,No,3,No
+26,Male,Finance,Manager,59063,27,1,2,No,2,No
+35,Female,Sales,Engineer,120880,11,2,4,Yes,4,Yes
+32,Male,Operations,Engineer,33748,22,3,1,No,1,Yes
+30,Female,IT,Sales Rep,135022,13,3,2,No,4,No
+55,Male,IT,Executive,147269,0,4,4,No,1,Yes
+33,Male,Sales,Executive,96629,17,3,1,Yes,4,No
+56,Female,HR,Sales Rep,110764,16,1,3,No,2,Yes
+56,Male,Operations,Executive,50884,26,2,2,No,3,No
+22,Female,IT,Analyst,55183,8,3,1,No,4,No
+43,Female,Operations,Manager,111570,8,1,2,No,1,No
+50,Male,IT,Engineer,101246,22,3,3,No,3,No
+29,Female,Operations,Manager,138036,9,3,1,Yes,1,No
+32,Female,Finance,Engineer,49259,18,3,4,No,2,No
+58,Female,IT,Analyst,65959,28,3,1,No,3,Yes
+35,Female,Operations,Executive,146525,14,3,4,Yes,1,No
+51,Female,HR,Sales Rep,63457,4,1,1,No,4,Yes
+56,Male,Finance,Analyst,115679,14,2,4,Yes,2,No
+42,Female,Finance,Manager,32103,19,2,3,No,2,No
+58,Female,HR,Sales Rep,95901,22,2,3,No,2,Yes
+26,Female,Operations,Executive,142314,29,2,3,Yes,4,No
+40,Female,Sales,Analyst,74535,24,1,1,No,4,No
+35,Female,HR,Sales Rep,46103,27,4,3,No,3,No
+47,Male,Operations,Analyst,128046,1,4,2,Yes,4,No
+25,Female,HR,Analyst,120012,12,1,3,No,3,No
+46,Male,HR,Executive,108278,23,1,4,No,2,No
+46,Male,IT,Engineer,42391,15,3,4,No,3,Yes
+39,Male,Operations,Sales Rep,132476,14,3,4,Yes,1,No
+29,Male,Sales,Executive,58901,24,3,1,No,2,No
+35,Female,IT,Analyst,127537,9,2,2,Yes,2,No
+53,Male,HR,Executive,111159,13,3,3,No,3,No
+59,Male,HR,Engineer,97914,9,4,2,Yes,2,No
+54,Female,HR,Sales Rep,80357,24,2,2,No,4,No
+44,Female,Operations,Engineer,116908,13,3,4,No,1,No
+36,Female,Operations,Manager,140335,25,2,4,No,3,No
+54,Male,IT,Sales Rep,68437,29,4,4,No,3,No
+46,Female,Sales,Engineer,65503,22,3,1,Yes,2,No
+38,Female,IT,Analyst,126282,8,4,2,Yes,4,No
+54,Male,Finance,Sales Rep,123459,24,4,2,No,2,Yes
+23,Female,HR,Sales Rep,105403,13,4,1,No,2,No
+35,Female,HR,Executive,71258,2,3,1,Yes,3,No
+27,Female,HR,Analyst,63724,19,1,1,No,2,Yes
+27,Female,IT,Manager,94286,15,3,2,No,1,Yes
+24,Male,IT,Engineer,104842,1,4,2,No,2,No
+28,Female,HR,Executive,134927,9,3,4,Yes,2,No
+29,Female,IT,Engineer,44908,2,4,4,Yes,3,No
+36,Male,Operations,Manager,122617,10,1,2,Yes,2,No
+50,Female,Operations,Manager,80626,10,2,4,No,4,Yes
+54,Male,IT,Sales Rep,67228,20,1,1,No,3,Yes
+51,Female,HR,Manager,53386,20,1,3,No,2,No
+48,Male,IT,Engineer,76754,21,2,4,No,1,No
+57,Male,IT,Analyst,140942,12,3,2,No,1,No
+50,Male,IT,Analyst,58302,6,2,4,No,3,Yes
+59,Male,Finance,Sales Rep,90815,22,3,4,No,3,No
+54,Female,Operations,Engineer,114748,16,3,4,Yes,2,No
+58,Male,Sales,Engineer,93344,29,4,3,No,4,No
+48,Female,Sales,Manager,65618,1,4,1,No,2,No
+54,Male,Finance,Engineer,141603,11,2,2,Yes,1,No
+25,Male,IT,Executive,106234,24,1,3,No,4,No
+43,Male,Finance,Manager,91114,9,2,2,Yes,4,Yes
+23,Female,Finance,Executive,147652,17,3,2,No,4,Yes
+31,Male,HR,Sales Rep,100130,21,4,2,No,2,No
+26,Female,Operations,Analyst,55525,26,2,3,No,1,No
+31,Female,Sales,Sales Rep,109818,10,2,1,No,3,No
+54,Female,IT,Analyst,144589,15,4,2,Yes,2,No
+59,Female,Sales,Sales Rep,44334,16,4,1,No,3,No
+34,Female,Sales,Engineer,124715,18,4,1,Yes,4,No
+52,Female,Operations,Executive,92767,17,3,4,No,4,No
+57,Female,Sales,Analyst,36644,2,4,3,No,2,Yes
+45,Female,Sales,Manager,131154,20,1,3,No,1,Yes
+36,Female,Finance,Executive,143237,26,2,4,No,4,No
+50,Male,Operations,Manager,62933,25,4,4,No,3,No
+29,Male,HR,Executive,73469,15,4,1,No,3,Yes
+26,Male,IT,Executive,63687,5,3,2,No,2,No
+50,Male,Sales,Sales Rep,136609,24,3,3,No,3,Yes
+25,Male,IT,Analyst,82656,11,2,2,Yes,1,No
+33,Female,HR,Analyst,47375,10,1,2,No,4,No
+23,Female,IT,Executive,144019,14,2,4,No,3,No
+48,Female,HR,Engineer,95206,14,4,2,Yes,3,Yes
+52,Female,Finance,Engineer,126462,15,1,1,No,4,No
+57,Female,Sales,Manager,66607,9,1,4,Yes,2,No
+57,Female,HR,Manager,113178,11,1,2,No,3,No
+47,Female,IT,Sales Rep,53993,27,1,4,Yes,2,Yes
+48,Male,Sales,Executive,74386,12,2,1,No,2,No
+26,Male,Finance,Manager,76287,3,3,1,Yes,3,No
+41,Male,Sales,Manager,116724,6,3,2,No,1,No
+32,Male,HR,Executive,128132,21,4,4,No,2,No
+31,Female,Finance,Sales Rep,123308,1,3,2,No,3,No
+59,Female,IT,Manager,126393,25,3,2,No,2,Yes
+27,Female,Finance,Sales Rep,106312,26,3,4,No,4,Yes
+29,Male,Finance,Analyst,128371,26,3,2,Yes,1,No
+44,Female,Operations,Sales Rep,105324,26,4,1,Yes,1,No
+47,Female,Finance,Engineer,101196,14,2,4,No,4,No
+33,Female,Finance,Engineer,100014,7,1,4,No,4,No
+47,Male,Sales,Sales Rep,38210,6,3,4,Yes,2,No
+34,Female,IT,Engineer,40922,14,2,4,No,4,No
+39,Male,Sales,Analyst,66289,22,3,2,Yes,1,No
+46,Male,Sales,Executive,63340,13,3,2,Yes,4,No
+54,Male,HR,Engineer,69850,7,1,1,No,3,Yes
+33,Male,Sales,Engineer,86984,27,1,3,No,3,No
+57,Female,Operations,Sales Rep,133699,11,1,3,No,2,Yes
+25,Male,Operations,Analyst,143711,12,3,1,No,1,No
+26,Male,HR,Executive,114178,29,3,3,No,3,No
+58,Female,IT,Sales Rep,41094,10,3,1,No,4,No
+29,Female,IT,Sales Rep,117959,16,1,2,Yes,3,No
+49,Male,Sales,Analyst,63418,28,4,4,Yes,3,Yes
+52,Female,Sales,Executive,35741,16,2,4,No,2,No
+30,Male,Sales,Analyst,141585,23,4,2,No,4,No
+50,Male,IT,Executive,102374,3,3,4,No,4,No
+35,Male,Finance,Analyst,147275,20,3,4,Yes,4,No
+43,Male,Operations,Sales Rep,98798,7,4,3,Yes,2,No
+32,Female,Finance,Sales Rep,146026,4,3,2,No,4,No
+44,Male,Finance,Manager,100532,25,2,3,Yes,4,No
+22,Female,IT,Engineer,140130,15,3,3,No,3,Yes
+58,Female,Finance,Analyst,52164,3,2,4,Yes,3,No
+42,Female,HR,Manager,65595,27,4,4,Yes,4,No
+47,Female,Sales,Engineer,60257,21,4,2,No,1,No
+57,Male,HR,Analyst,44211,28,3,4,No,1,No
+44,Female,Operations,Executive,125989,14,2,4,No,4,No
+22,Male,Sales,Engineer,35232,11,3,2,Yes,1,No
+36,Female,Finance,Sales Rep,97753,4,1,4,No,2,No
+42,Female,Operations,Manager,82691,29,1,3,Yes,3,No
+30,Male,Sales,Engineer,119765,22,1,2,No,2,No
+30,Male,Finance,Engineer,109768,15,1,4,No,3,Yes
+31,Male,HR,Sales Rep,55613,13,3,1,Yes,1,No
+47,Female,Sales,Analyst,44026,9,1,2,No,1,No
+56,Female,Finance,Executive,83535,6,2,2,Yes,4,No
+46,Male,HR,Sales Rep,124090,12,4,1,No,1,Yes
+47,Male,Operations,Executive,60908,19,4,4,No,1,No
+32,Male,Operations,Analyst,82113,27,1,4,No,4,Yes
+59,Male,Operations,Engineer,49610,28,1,2,Yes,4,Yes
+23,Female,Operations,Executive,76646,4,1,2,No,3,Yes
+28,Male,IT,Manager,135141,28,3,4,No,1,No
+39,Male,Sales,Manager,93185,2,4,4,No,3,Yes
+48,Male,Sales,Sales Rep,102567,14,1,3,No,3,No
+55,Male,IT,Analyst,77574,3,2,2,Yes,2,No
+48,Female,Finance,Sales Rep,121051,14,1,2,No,1,No
+38,Male,Finance,Sales Rep,132020,13,4,1,Yes,1,No
+45,Female,Operations,Sales Rep,66182,19,1,3,Yes,2,No
+46,Male,HR,Manager,146136,18,4,4,No,3,No
+28,Male,Finance,Manager,30570,12,1,3,No,1,No
+27,Female,HR,Sales Rep,127790,9,2,4,No,3,No
+45,Male,Sales,Manager,49288,20,1,4,No,2,No
+54,Female,HR,Analyst,108824,4,2,3,No,4,Yes
+50,Female,Sales,Sales Rep,59877,26,2,2,No,3,No
+43,Male,IT,Manager,114425,22,1,4,No,1,No
+47,Female,IT,Executive,30917,19,2,3,Yes,4,No
+49,Female,Operations,Sales Rep,105602,28,3,1,No,3,No
+42,Female,Finance,Sales Rep,125040,19,1,3,Yes,3,No
+28,Female,Operations,Analyst,94575,24,1,1,No,4,No
+38,Female,Sales,Engineer,102518,5,2,4,No,4,No
+41,Female,Operations,Engineer,69104,3,2,3,No,4,No
+41,Female,HR,Analyst,48062,1,1,3,No,1,No
+43,Female,Sales,Analyst,46999,21,3,1,Yes,1,No
+49,Male,IT,Analyst,91845,15,2,3,No,3,No
+28,Male,Finance,Engineer,39941,17,2,3,Yes,3,No
+22,Female,Sales,Analyst,91169,4,4,4,No,2,No
+53,Male,Sales,Manager,53470,21,3,3,No,1,No
+34,Female,HR,Sales Rep,140684,3,3,2,No,3,No
+51,Female,Finance,Sales Rep,89821,29,1,1,Yes,4,No
+44,Male,IT,Executive,116669,12,3,3,Yes,4,Yes
+40,Female,Sales,Executive,148193,18,1,1,Yes,1,No
+53,Female,Sales,Sales Rep,74435,22,4,1,No,4,No
